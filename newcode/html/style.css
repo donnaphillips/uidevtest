@@ -1,0 +1,60 @@
+body{
+background: -webkit-gradient(linear, left top, left bottom, from(#ccc), to(#FFF));
+background: -moz-linear-gradient(top,  #ccc,  #FFF);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#cccccc', endColorstr='#FFFFFF');
+}
+img.icons 
+{
+margin-left:3px;
+margin-right:3px;
+vertical-align:baseline;
+border:0px;
+
+}
+h1
+{
+font-family:Georgia,"Times New Roman",Times,serif;
+color:#202020;
+}
+p
+{
+font-family:Arial,"MS Trebuchet",sans-serif;
+font-size:12px;
+}
+p.orange
+{
+color:#CC6600;
+font-size:12px;
+}
+p.grey
+{
+color:#666666;
+font-size:12px;
+}
+p.size18
+{
+font-size:18px;
+}
+h1
+{
+font-size:18px;
+}
+div.left
+{
+height:inherit;
+width:170px;
+float:left;
+margin-right:20px
+
+}
+div.right
+{
+height:inherit;
+width:625px;
+margin-right:20px
+}
+a
+{
+color:black;
+text-decoration:none;
+}
